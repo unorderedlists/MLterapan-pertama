@@ -1,5 +1,9 @@
 # Laporan Proyek Machine Learning
 
+Proyek pertama Dicoding course Machine Learning Terapan ini mendapatkan bintang 4/5 dari reviewer.
+
+![Penilaian Reviewer](https://github.com/user-attachments/assets/3118a1a3-77dd-4e04-81da-85b4b13b496a)
+
 ## Daftar Isi
 
 - [Domain Proyek](#domain-proyek)
@@ -78,7 +82,6 @@ Teknik visualisasi data seperti pie chart, reggression plot, violin plot, histog
 
     ![Pie chart](https://github.com/user-attachments/assets/d2c137c3-a9b2-4290-babb-078fbb7d2863)
     </details>
-    <br>
 
     Insight:
 
@@ -93,7 +96,6 @@ Teknik visualisasi data seperti pie chart, reggression plot, violin plot, histog
 
     ![Regplot](https://github.com/user-attachments/assets/5dfd74e6-5737-4207-a7cd-15bdebe7ab05)
     </details>
-    <br>
 
     Insight:
 
@@ -109,7 +111,6 @@ Teknik visualisasi data seperti pie chart, reggression plot, violin plot, histog
 
     ![Violin Plot](https://github.com/user-attachments/assets/3a1725ee-a8bc-45d3-aed6-825de9a4920d)
     </details>
-    <br>
 
     Insight:
 
@@ -125,7 +126,6 @@ Teknik visualisasi data seperti pie chart, reggression plot, violin plot, histog
 
     ![Histogram](https://github.com/user-attachments/assets/285966d6-1c8a-498b-8c3d-1fe4eaf4bba8)
     </details>
-    <br>
 
     Insight:
 
@@ -141,7 +141,6 @@ Teknik visualisasi data seperti pie chart, reggression plot, violin plot, histog
 
     ![Heatmap](https://github.com/user-attachments/assets/ea5c6080-0d98-4385-8eb6-ab6920c0bbca)
     </details>
-    <br>
 
     Insight:
 
@@ -342,7 +341,6 @@ def print_best_score_params(model):
 ```
 
 </details>
-<br>
 
 ## Evaluation
 
